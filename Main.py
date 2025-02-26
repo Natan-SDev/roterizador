@@ -1,7 +1,7 @@
 import streamlit as st
 import webbrowser
 
-st.title('Roterizador')
+st.title('Roteirizador')
 
     # Exibindo o resumo do aplicativo
 st.subheader("Resumo do App")
